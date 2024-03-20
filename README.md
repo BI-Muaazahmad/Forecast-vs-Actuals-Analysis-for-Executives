@@ -1,10 +1,15 @@
 <h1>Forecast vs Actuals Analysis for Executives</h1>
 
 
-<h2>Description</h2>
+<h2>Problem Statment</h2>
 In today's dynamic business environment, executives need quick and actionable insights to make informed decisions. However, the challenge lies in efficiently comparing forecasted sales with actuals across different regions, customers, and products. Traditional reporting methods often lack the agility and interactivity required for effective decision-making.
 <br />
 <br />
+
+<h2>Solution</h2>
+Solution To address this challenge, I developed an executive dashboard tailored for business executives to monitor forecast vs actuals effortlessly. The dashboard encompasses key features such as a dynamic map visualization on the overview page, displaying actual sales, quantity, and forecasting trends over time using time intelligence and line charts. Additionally, the organizational page provides detailed insights into total actual sales, forecast sales, upper and lower bounds, categorized by states and countries. Similarly, the customer and product pages offer granular data analysis, allowing executives to drill down into specific customer segments or product categories for deeper insights.
+
+During the development phase, I focused on creating a user-friendly interface with intuitive navigation and interactive visualizations. Utilizing PowerBI's robust capabilities, I integrated various datasets and implemented advanced time intelligence functions to enable forecasting and trend analysis. Additionally, I optimized the dashboard for performance, ensuring smooth and responsive user experience even with large datasets.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiMGY1ZjYtMDdjZi00NTQzLTkyOGUtN2JkZDQ1OTljMWIxIiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9" target="_blank">Link to PowerBI Report</a>
 
