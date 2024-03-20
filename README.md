@@ -4,6 +4,7 @@
 <h2>Description</h2>
 In today's dynamic business environment, executives need quick and actionable insights to make informed decisions. However, the challenge lies in efficiently comparing forecasted sales with actuals across different regions, customers, and products. Traditional reporting methods often lack the agility and interactivity required for effective decision-making.
 <br />
+<br />
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiMGY1ZjYtMDdjZi00NTQzLTkyOGUtN2JkZDQ1OTljMWIxIiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9" target="_blank">Link to PowerBI Report</a>
 
