@@ -5,6 +5,11 @@
 In today's dynamic business environment, executives need quick and actionable insights to make informed decisions. However, the challenge lies in efficiently comparing forecasted sales with actuals across different regions, customers, and products. Traditional reporting methods often lack the agility and interactivity required for effective decision-making.
 <br />
 
+<h2><a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiMGY1ZjYtMDdjZi00NTQzLTkyOGUtN2JkZDQ1OTljMWIxIiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9" target="_blank">Link to PowerBI Report</a>
+</h2>
+
+<br />
+
 
 <h2>Languages and Utilities Used</h2>
 
@@ -30,25 +35,16 @@ In today's dynamic business environment, executives need quick and actionable in
 
 <p align="center">
 Output Result: <br/>
-<img src="https://i.imgur.com/6oHKpYD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/j76K1nH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vR6v7wC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-- <b>French PBI Report</b>
-
-<p align="center">
-Output Result: <br/>
-<img src="https://i.imgur.com/0SBxrkl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/3RiV93C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-- <b>Spanish  PBI Report</b>
+- <b>Detailed View</b>
 
 <p align="center">
 Output Result: <br/>
-<img src="https://i.imgur.com/dkkZ6Gx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/jFdejqd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MbQz4R4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
