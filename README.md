@@ -11,7 +11,7 @@ Solution To address this challenge, I developed an executive dashboard tailored 
 
 During the development phase, I focused on creating a user-friendly interface with intuitive navigation and interactive visualizations. Utilizing PowerBI's robust capabilities, I integrated various datasets and implemented advanced time intelligence functions to enable forecasting and trend analysis. Additionally, I optimized the dashboard for performance, ensuring smooth and responsive user experience even with large datasets.
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiMGY1ZjYtMDdjZi00NTQzLTkyOGUtN2JkZDQ1OTljMWIxIiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9" target="_blank">Link to PowerBI Report</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTUwMjg4YWQtMjdkMC00MTRlLTliNDktZTkyYTRkNDM5Yjk0IiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9" target="_blank">Link to PowerBI Report</a>
 
 
 <br />
